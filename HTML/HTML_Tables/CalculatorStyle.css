@@ -1,0 +1,30 @@
+﻿table
+{
+    border:solid;
+    border-color:rosybrown;
+    color:burlywood;
+    height:200%;
+   
+}
+td
+{
+    border:inset;
+    border-color:rosybrown;
+    color:burlywood;
+    background-color:lightyellow;
+    
+    
+}
+
+button
+{
+    border:none;
+    background-color:lightyellow;
+    text-emphasis-color:paleturquoise;
+    text-align:center;
+    font-style:oblique;
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    color:maroon;
+  
+}

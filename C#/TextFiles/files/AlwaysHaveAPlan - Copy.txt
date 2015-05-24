@@ -1,0 +1,35 @@
+Always Have a Plan
+
+This is perhaps the most important rule. You must always have a plan, rather
+than engaging in directionless activity.
+By this point, you should understand that having a plan is always possible.
+It’s true that if you haven’t already solved the problem in your head, then
+you can’t have a plan for implementing a solution in code. That will come
+later. Even at the beginning, though, you should have a plan for how you are
+going to find the solution.
+To be fair, the plan may require alteration somewhere along the journey,
+or you may have to abandon your original plan and concoct another. Why,
+then, is this rule so important? General Dwight D. Eisenhower was famous
+for saying, “I have always found that plans are useless, but planning is indispensable.”
+He meant that battles are so chaotic that it is impossible to predict
+everything that could happen and have a predetermined response for every
+outcome. In that sense, then, plans are useless on the battlefield (another
+military leader, the Prussian Helmuth von Moltke, famously said that “no
+plan survives first contact with the enemy”). But no army can succeed without
+planning and organization. Through planning, a general learns what his
+army’s capabilities are, how the different parts of the army work together,
+and so on.
+In the same way, you must always have a plan for solving a problem. It
+may not survive first contact with the enemy—it may be discarded as soon as
+you start to type code into your source editor—but you must have a plan.
+Without a plan, you are simply hoping for a lucky break, the equivalent
+of the randomly typing monkey producing one of the plays of Shakespeare.
+Lucky breaks are uncommon, and those that occur may still require a plan.
+Many people have heard the story of the discovery of penicillin: A researcher
+named Alexander Fleming forgot to close a petri dish one night and in the
+morning found that mold had inhibited the growth of the bacteria in the
+dish. But Fleming was not sitting around waiting for a lucky break; he had
+been experimenting in a thorough and controlled way and thus recognized
+the importance of what he saw in the petri dish. (If I found mold growing on
+something I left out the night before, this would not result in an important
+contribution to science.)

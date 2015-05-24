@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\Homework\OOP_PartI\SchoolProgram\bin\Debug\SchoolProgram.exe.config
+C:\Users\Owner\Source\Repos\Homework\OOP_PartI\SchoolProgram\bin\Debug\SchoolProgram.exe
+C:\Users\Owner\Source\Repos\Homework\OOP_PartI\SchoolProgram\bin\Debug\SchoolProgram.pdb
+C:\Users\Owner\Source\Repos\Homework\OOP_PartI\SchoolProgram\obj\Debug\SchoolProgram.exe
+C:\Users\Owner\Source\Repos\Homework\OOP_PartI\SchoolProgram\obj\Debug\SchoolProgram.pdb

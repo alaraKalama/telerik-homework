@@ -1,0 +1,66 @@
+﻿body 
+{
+    font-family:Arial;
+    font-size:15px;
+}
+
+table
+{
+    border:1px solid gray;
+    border-collapse:collapse;
+    width:500px;
+}
+
+#title
+{
+    font-size:20px;
+    text-align:center;
+}
+
+thead.green
+{
+    background-color:rgb(80, 179, 6);
+}
+
+tfoot
+{
+    background-color:rgba(101, 152, 63, 0.6);
+}
+
+tr.whiteText
+{
+    color:white;
+}
+
+tr.dark
+{
+    background-color:rgb(236, 236, 216);
+}
+
+tr
+{
+    height:17px;
+}
+
+td
+{
+    border:1px solid gray;
+    border-collapse:collapse;
+    text-align:justify;
+    padding-left:1%;
+    
+}
+
+.flag
+{
+    height:13px;
+}
+
+.squared 
+{
+	width: 17px;	
+	margin: 10px auto;
+    border:1px inset;
+	position: relative;
+}
+

@@ -1,0 +1,24 @@
+Always Have a Plan
+
+This is perhaps the most important rule. You must always have a plan, rather
+than engaging in directionless activity.
+By this point, you should understand that having a plan is always possible.
+It’s true that if you haven’t already solved the problem in your head, then
+you can’t have a plan for implementing a solution in code. That will come
+later. Even at the beginning, though, you should have a plan for how you are
+going to find the solution.
+To be fair, the plan may require alteration somewhere along the journey,
+or you may have to abandon your original plan and concoct another. Why,
+then, is this rule so important? General Dwight D. Eisenhower was famous
+for saying, “I have always found that plans are useless, but planning is indispensable.”
+He meant that battles are so chaotic that it is impossible to predict
+everything that could happen and have a predetermined response for every
+outcome. In that sense, then, plans are useless on the battlefield (another
+military leader, the Prussian Helmuth von Moltke, famously said that “no
+plan survives first contact with the enemy”). But no army can succeed without
+planning and organization. Through planning, a general learns what his
+army’s capabilities are, how the different parts of the army work together,
+and so on.
+In the same way, you must always have a plan for solving a problem. It
+may not survive first contact with the enemy—it may be discarded as soon as
+you start to type code into your source editor—but you must have a plan.

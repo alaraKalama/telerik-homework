@@ -1,0 +1,73 @@
+﻿table
+{
+    border-collapse:collapse;
+    border-color: rgb(213, 219, 232);
+    width:700px;
+    border-spacing:0;
+    width:800px;
+}
+
+.inputtext
+{
+  width:50px;
+}
+.inputtext1
+{
+    width:30px;
+}
+
+#round
+{
+    border-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    /*the fuck with this round edges*/
+
+}
+.rounded
+{
+
+}
+
+.firstbox
+{
+    
+    font-family:Arial;
+    font-size:smaller;
+    border-color: rgb(179, 185, 191);
+    border-radius:50%;
+    background: linear-gradient(rgb(219,221,224), rgb(241,241,243));
+    background:-webkit-linear-gradient(rgb(219,221,224), rgb(241,241,243)); /*explorer*/
+    background:-o-linear-gradient(rgb(219,221,224), rgb(241,241,243)); /*opera*/
+    background:-moz-linear-gradient(rgb(219,221,224), rgb(241,241,243)); /*firefox*/
+    height:25px;
+}
+
+.secondbox
+{
+    font-family:Arial;
+    font-size:smaller;
+    border-color: rgb(179, 185, 191);
+    border-radius:50%;
+    background: linear-gradient(rgb(241,241,243), rgb(219,221,224));
+    background:-webkit-linear-gradient(rgb(241,241,243), rgb(219,221,224)); /*explorer*/
+    background:-o-linear-gradient(rgb(241,241,243), rgb(219,221,224)); /*opera*/
+    background:-moz-linear-gradient(rgb(241,241,243), rgb(219,221,224)); /*firefox*/
+    height:25px;
+}
+
+td
+{
+    padding-left:1%;
+}
+
+tbody
+{
+    background-color: rgb(255, 250, 255);
+}
+
+.button
+{
+    width:15px;
+    height:15px;
+}

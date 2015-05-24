@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfPeople", "ListOfPeople\ListOfPeople.csproj", "{3822B8B1-1859-4053-B151-A1704AC89CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumPosts", "ForumPosts\ForumPosts.csproj", "{FAA5C9F3-08B9-4B8D-9379-03A11C2387BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challangeTicket", "challangeTicket\challangeTicket.csproj", "{28257125-9024-4C62-B2D7-46A5ED503E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3822B8B1-1859-4053-B151-A1704AC89CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3822B8B1-1859-4053-B151-A1704AC89CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3822B8B1-1859-4053-B151-A1704AC89CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3822B8B1-1859-4053-B151-A1704AC89CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA5C9F3-08B9-4B8D-9379-03A11C2387BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA5C9F3-08B9-4B8D-9379-03A11C2387BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA5C9F3-08B9-4B8D-9379-03A11C2387BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA5C9F3-08B9-4B8D-9379-03A11C2387BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28257125-9024-4C62-B2D7-46A5ED503E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28257125-9024-4C62-B2D7-46A5ED503E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28257125-9024-4C62-B2D7-46A5ED503E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28257125-9024-4C62-B2D7-46A5ED503E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+﻿Don’t Get Frustrated
+
+The final technique isn’t so much a technique, but a maxim: Don’t get frustrated.
+When you are frustrated, you won’t think as clearly, you won’t work as
+efficiently, and everything will take longer and seem harder. Even worse,
+frustration tends to feed on itself, so that what begins as mild irritation ends
+as outright anger.
+When I give this advice to new programmers, they often retort that while
+they agree with my point in principle, they have no control over their frustrations.
+Isn’t asking a programmer not to get frustrated at lack of success like
+asking a little boy not to yell out if he steps on a tack? The answer is no. When
+someone steps on a tack, a strong signal is immediately sent through the central
+nervous system, where the lower depths of the brain respond. Unless you
+know you’re about to step on the tack, it’s impossible to react in time to countermand
+the automatic response from the brain. So we’ll let the little boy off
+the hook for yelling out.
+The programmer is not in the same boat. At the risk of sounding like a
+self-help guru, a frustrated programmer isn’t responding to an external stimulus.
+The frustrated programmer isn’t angry with the source code on the
+monitor, although the programmer may express the frustration in those
+terms. Instead, the frustrated programmer is angry at himself or herself. The
+source of the frustration is also the destination, the programmer’s mind.
+When you allow yourself to get frustrated—and I use the word “allow”
+deliberately—you are, in effect, giving yourself an excuse to continue to fail.
+Suppose you’re working on a difficult problem and you feel your frustration
+rise. Hours later, you look back at an afternoon of gritted teeth and pencils
+snapped in anger and tell yourself that you would have made real progress if
+you had been able to calm down. In truth, you may have decided that giving
+in to your anger was easier than facing the difficult problem.
+Ultimately, then, avoiding frustration is a decision you must make. However,
+there are some thoughts you can employ that will help. First of all, never
+forget the first rule, that you should always have a plan, and that while writing
+code that solves the original problem is the goal of that plan, it is not the only
+step of that plan. Thus, if you have a plan and you’re following it, then you
+are making progress and you must believe this. If you’ve run through all the
+steps on your original plan and you’re still not ready to start coding, then it’s
+time to make another plan.
+Also, when it comes down to getting frustrated or taking a break, you
+should take a break. One trick is to have more than one problem to work on
+so that if this one problem has you stymied, you can turn your efforts elsewhere.
+Note that if you successfully divide the problem, you can use this technique
+on a single problem; just block out the part of the problem that has you
+stuck, and work on something else. If you don’t have another problem you
+can tackle, get out of your chair and do something else, something that keeps
+your blood flowing but doesn’t make your brain hurt: Take a walk, do the
+laundry, go through your stretching routine (if you’re signing up to be a programmer,
+sitting at a computer all day, I highly recommend developing a
+stretching routine!). Don’t think about the problem until your break is over.
+
+from "Think like a Programmer" by V. Anton Spraul

@@ -1,0 +1,70 @@
+﻿body 
+{
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:200;
+}
+
+table.ticketBody
+{
+    width:250px;
+    height:450px;
+    font-size:1.2em;
+    background-color:rgb(169, 163, 159);
+    border:8px dotted rgb(215, 59, 59);
+    border-top-right-radius:10px;
+    padding-left:1%;
+}
+
+
+.ticketHead
+{
+    padding-left:2%;
+    font-size:larger;
+}
+#titleLink
+{
+    color:black;
+}
+#titleLink:hover
+{
+    color:orange;
+}
+
+.tag
+{
+    font-family:Arial;
+    font-style:italic;
+    font-size:12px;
+    color:white;
+    padding-top:1%;
+
+}
+
+.green
+{
+    color:rgb(109, 228, 80);
+    font: bold 10px;
+}
+
+.yellow
+{
+    color:rgb(250, 249, 132);
+    font-size:smaller;
+}
+
+.gray
+{
+    color:rgb(53, 53, 53);
+}
+
+#status.orange
+{
+    color:rgb(255, 106, 0);
+    font:bolder;
+}
+
+a
+{
+    
+}

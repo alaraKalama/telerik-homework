@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Loops\NotDivisibleBy3And7\bin\Debug\NotDivisibleBy3And7.exe.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Loops\NotDivisibleBy3And7\bin\Debug\NotDivisibleBy3And7.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Loops\NotDivisibleBy3And7\bin\Debug\NotDivisibleBy3And7.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Loops\NotDivisibleBy3And7\obj\Debug\NotDivisibleBy3And7.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Loops\NotDivisibleBy3And7\obj\Debug\NotDivisibleBy3And7.pdb

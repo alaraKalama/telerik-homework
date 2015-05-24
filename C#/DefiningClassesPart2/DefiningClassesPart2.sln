@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space3D", "DefiningClassesPart2\Space3D.csproj", "{30F420E8-85C8-4144-8CA1-F91C20597134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{9B64D7B5-55D3-4098-B0CD-CD7125F0060D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMatrix", "GenericMatrix\GenericMatrix.csproj", "{C16088CE-239E-456D-9EA0-440A265B172A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F420E8-85C8-4144-8CA1-F91C20597134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F420E8-85C8-4144-8CA1-F91C20597134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F420E8-85C8-4144-8CA1-F91C20597134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F420E8-85C8-4144-8CA1-F91C20597134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B64D7B5-55D3-4098-B0CD-CD7125F0060D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B64D7B5-55D3-4098-B0CD-CD7125F0060D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B64D7B5-55D3-4098-B0CD-CD7125F0060D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B64D7B5-55D3-4098-B0CD-CD7125F0060D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16088CE-239E-456D-9EA0-440A265B172A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16088CE-239E-456D-9EA0-440A265B172A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16088CE-239E-456D-9EA0-440A265B172A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16088CE-239E-456D-9EA0-440A265B172A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

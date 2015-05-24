@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>registration form</title>
+    <link rel="stylesheet" href="registrationStyleSheet.css" />
+</head>
+<body>
+    <table id="registrationForm">
+        <tr>
+            <td class="info">Last name</td>
+            <td id="lastname" class="userdata"> <input type="text" /> </td>
+        </tr>
+        <tr>
+            <td class="info">First name</td>
+            <td id="firstname" class="userdata"> <input type="text" /> </td>
+        </tr>
+        <tr>
+            <td class="info">Adress:</td>
+            <td id="adress" class="userdata"><textarea rows="3"></textarea></td>
+        </tr>
+        <tr>
+            <td class="info">City</td>
+            <td id="city" class="userdata"><input style="display: inline-block; width: 90px;" />State <input style="display: inline-block; width: 30px;"  /></td>
+        </tr>
+        <tr>
+            <td class="info">Zip/Postal Code</td>
+            <td id="postalCode" class="userdata"><input type="text"> </td>
+        </tr>
+        <tr>
+            <td class="info">Country</td>
+            <td class="userdata">
+                <select id="country" class="userdata">
+                    <option value="1">Bulgaria</option>
+                    <option value="2">Mexico</option>
+                    <option value="3">Narnia</option>
+                    <option value="4">USA</option>
+                    <option value="5">Germany</option>
+                    <option value="6">Spain</option>
+                    <option value="7">France</option>
+                    <option value="8">United Kingdom</option>
+                </select>
+
+            </td>
+        </tr>
+        <tr>
+            <td class="info">Phone(Country code, area code, number)</td>
+            <td class="userdata">
+                +(<input style="display: inline-block; width: 30px;" />)
+                <input style="display: inline-block; width: 30px;" />
+                <input style="display: inline-block; width: 60px;" />
+            </td>               
+        </tr>
+        <tr>
+            <td class="info">Email</td>
+            <td id="mail" class="userdata"> <input type="email" /> </td>
+        </tr>
+        <tr>
+            <td class="info">Birthday</td>
+            <td id="birthday" class="userdata"> <input type="date" /> </td>
+        </tr>
+        <tr>
+            <td class="info">Gender</td>
+            <td class="userdata">
+                <select id="sex">
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+
+            </td>
+        </tr>
+        <tr>
+            <td class="info">Starting date</td>
+            <td class="userdata">
+                <input type="radio"  />Spring 2015
+                <input type="radio"  />Summer 2015
+            </td>
+        </tr>
+        <tr>
+            <td class="info">
+                Comments/Questions
+            </td>
+            <td class="userdata">
+                <textarea></textarea>
+            </td>
+        </tr>
+        <tr id="buttons">
+            <td align="right">
+                <button>Submit</button>
+            </td>
+            <td align="left">
+                <button>Clean this form</button>
+            </td>
+        </tr>
+        
+    </table>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿table, td
+{
+    border: 1px solid;
+    border-collapse:collapse;
+}
+table
+{
+    border:solid;
+    border-color:black;
+}
+tr
+{
+    border:solid;
+    border-color:black;
+}
+td
+{
+    display: table-cell;
+    vertical-align: inherit;
+    align-content:center;
+}
+td.info
+{
+    width:100px;
+}
+td.userdata
+{
+    width:250px;
+}
+#buttons
+{
+    background-color:cadetblue;
+}
+

@@ -1,0 +1,5 @@
+C:\Users\Owner\documents\visual studio 2013\Projects\Methods\op\bin\Debug\op.exe.config
+C:\Users\Owner\documents\visual studio 2013\Projects\Methods\op\bin\Debug\op.exe
+C:\Users\Owner\documents\visual studio 2013\Projects\Methods\op\bin\Debug\op.pdb
+C:\Users\Owner\documents\visual studio 2013\Projects\Methods\op\obj\Debug\op.exe
+C:\Users\Owner\documents\visual studio 2013\Projects\Methods\op\obj\Debug\op.pdb

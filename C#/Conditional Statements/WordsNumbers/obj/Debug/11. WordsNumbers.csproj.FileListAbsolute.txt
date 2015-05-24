@@ -1,0 +1,6 @@
+C:\Users\Owner\documents\visual studio 2013\Projects\Conditional Statements\WordsNumbers\bin\Debug\WordsNumbers.exe.config
+C:\Users\Owner\documents\visual studio 2013\Projects\Conditional Statements\WordsNumbers\bin\Debug\WordsNumbers.exe
+C:\Users\Owner\documents\visual studio 2013\Projects\Conditional Statements\WordsNumbers\bin\Debug\WordsNumbers.pdb
+C:\Users\Owner\documents\visual studio 2013\Projects\Conditional Statements\WordsNumbers\obj\Debug\11. WordsNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2013\Projects\Conditional Statements\WordsNumbers\obj\Debug\WordsNumbers.exe
+C:\Users\Owner\documents\visual studio 2013\Projects\Conditional Statements\WordsNumbers\obj\Debug\WordsNumbers.pdb

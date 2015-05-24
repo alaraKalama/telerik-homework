@@ -1,0 +1,67 @@
+﻿
+/*Hi, I used some CSS because I was interested to learn it parallel with HTML
+    It seems very simple - you put the element you want to stylize and { }, and the style in the brackets:)
+*/
+
+table
+{
+    border-collapse:collapse; /*This makes the same as if you collapse the border in the html dosument(in the <table> element) */
+}
+
+thead
+{
+    font:bold; /*To bold the text in the head of the table*/
+}
+
+.mark
+{
+    width:70px; /*I used classes for some element, when you want to stylize all the elements in a class you write .classname
+                  ot h1.classname - for specific element from that class, or .classname h1 - this looks for all h1 element inside the element
+                  from that class*/
+}
+
+.info
+{
+    width:100px;
+}
+
+.topheader
+{
+    grid-column-span:3;
+    text-align:center;
+}
+
+a:link
+{
+    color:blue;
+}
+
+a:visited
+{
+    color:darkblue;
+}
+a:hover
+{
+    color:blueviolet;
+    font-size:larger;
+}
+a:active /*This is pseudo-classes - how you manipulate the appearance of the of links when they are clicked, visited, active...
+                              (I'm still not sure how it works)*/
+{
+    color:aquamarine;
+}
+.click
+{
+    color:azure;
+    background-color:pink;
+}
+.click:hover
+{
+    color:pink;
+    background-color:azure; /*so gay*/
+    font-size:larger;
+}
+button
+{
+    border-style:ridge;
+}

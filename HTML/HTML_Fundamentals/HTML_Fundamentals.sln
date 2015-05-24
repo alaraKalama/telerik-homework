@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RunnersWorld", "RunnersWorld", "{74A0D72B-1611-4B7D-8AD4-B17CD7DD335D}"
+	ProjectSection(SolutionItems) = preProject
+		RunnersWorld.html = RunnersWorld.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NestedLists", "NestedLists", "{4A33DA16-BEC4-473F-B60F-2124401FEA6C}"
+	ProjectSection(SolutionItems) = preProject
+		NestedLists.html = NestedLists.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SocialSite", "SocialSite", "{A2F31B8A-4730-46AF-9D58-1EE99719CE60}"
+	ProjectSection(SolutionItems) = preProject
+		DogeSocialMedia\DogeFriends.html = DogeSocialMedia\DogeFriends.html
+		DogeSocialMedia\DogeHome.html = DogeSocialMedia\DogeHome.html
+		DogeSocialMedia\DogeProfile.html = DogeSocialMedia\DogeProfile.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

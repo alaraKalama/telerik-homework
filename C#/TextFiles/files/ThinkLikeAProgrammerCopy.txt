@@ -1,0 +1,42 @@
+01. Don’t Get Frustrated
+02. 
+03. The final technique isn’t so much a technique, but a maxim: Don’t get frustrated.
+04. When you are frustrated, you won’t think as clearly, you won’t work as
+05. efficiently, and everything will take longer and seem harder. Even worse,
+06. frustration tends to feed on itself, so that what begins as mild irritation ends
+07. as outright anger.
+08. When I give this advice to new programmers, they often retort that while
+09. they agree with my point in principle, they have no control over their frustrations.
+10. Isn’t asking a programmer not to get frustrated at lack of success like
+11. asking a little boy not to yell out if he steps on a tack? The answer is no. When
+12. someone steps on a tack, a strong signal is immediately sent through the central
+13. nervous system, where the lower depths of the brain respond. Unless you
+14. know you’re about to step on the tack, it’s impossible to react in time to countermand
+15. the automatic response from the brain. So we’ll let the little boy off
+16. the hook for yelling out.
+17. The programmer is not in the same boat. At the risk of sounding like a
+18. self-help guru, a frustrated programmer isn’t responding to an external stimulus.
+19. The frustrated programmer isn’t angry with the source code on the
+20. monitor, although the programmer may express the frustration in those
+21. terms. Instead, the frustrated programmer is angry at himself or herself. The
+22. source of the frustration is also the destination, the programmer’s mind.
+23. When you allow yourself to get frustrated—and I use the word “allow”
+24. deliberately—you are, in effect, giving yourself an excuse to continue to fail.
+25. Suppose you’re working on a difficult problem and you feel your frustration
+26. rise. Hours later, you look back at an afternoon of gritted teeth and pencils
+27. snapped in anger and tell yourself that you would have made real progress if
+28. you had been able to calm down. In truth, you may have decided that giving
+29. in to your anger was easier than facing the difficult problem.
+30. Ultimately, then, avoiding frustration is a decision you must make. However,
+31. there are some thoughts you can employ that will help. First of all, never
+32. forget the first rule, that you should always have a plan, and that while writing
+33. code that solves the original problem is the goal of that plan, it is not the only
+34. step of that plan. Thus, if you have a plan and you’re following it, then you
+35. are making progress and you must believe this. If you’ve run through all the
+36. steps on your original plan and you’re still not ready to start coding, then it’s
+37. time to make another plan.
+38. Also, when it comes down to getting frustrated or taking a break, you
+39. should take a break. One trick is to have more than one problem to work on
+40. so that if this one problem has you stymied, you can turn your efforts elsewhere.
+41. Note that if you successfully divide the problem, you can use this technique
+42. on a single problem; 
