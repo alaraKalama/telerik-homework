@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Homework | Operators and Expressions</title>
+	<script src="operatorsAndExpressions.js"></script>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+<h1>Homework | Operators and Expressions</h1>
+
+  <div class="problem">
+  <h2>Problem 1. Odd or Even</h2>
+    <p>Write an expression that checks if given integer is odd or even.</p>
+    <div>
+        <span>Please enter a number:</span>
+        <input type="text" name="number-entered" id="input" />
+        <button onclick="isOdd()">Check!</button>
+        <br /> <br />
+        <span>Odd?</span>
+        <input type="text" id="result" disabled="disabled" />
+    </div>
+   </div>
+
+   <div class="problem">
+   <h2>Problem 2. Divisible by 7 and 5</h2>
+    <p>Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.</p>
+    <div>
+    	<span>Enter a number:</span>
+    	<input type="text" name="inputNumber" id="toDivide">
+    	<button onclick="divisibleBy7And5()">Check!</button>
+    	<br/> <br />
+    	<input type="text" id="result2" disabled="disabled"/>
+    </div>
+   </div>
+
+   <div class="problem">
+   	<h2>Problem 3. Rectangle area</h2>
+    <p>Write an expression that calculates rectangle’s area by given width and height.</p>
+    <span>Enter width:</span>
+    <input type="text" id="widthRectangle">
+    <br/>
+    <span>Enter height:</span>
+    <input type="text" id="heightRectangle">
+    <br /> <br />
+    <button onclick="calculateRectangleArea()">Get Area!</button>
+    <input type="text" id="area"  disabled="disabled">
+   </div>
+
+
+   <div class="problem">
+    <h2>Problem 4. Third digit</h2>
+    <p>Write an expression that checks for given integer if its third digit (right-to-left) is 7.</p>
+    <input type="text" id="integer">
+    <button onclick="CheckThirdtDigit()">Check!</button>
+    <input type="text" id="isItSeven" disabled="disabled">
+   </div>
+
+   <div class="problem">
+   	<h2>Problem 5. Third bit</h2>
+    <p>Write a boolean expression for finding if the bit #3 (counting from 0) of a given integer.
+    The bits are counted from right to left, starting from bit #0.
+    The result of the expression should be either 1 or 0.</p>
+    <span>Enter a number in decimal:</span>
+    <input type="text" id="convertToBinary">
+    <button onclick="findThirdBit()">Convert and find</button>
+    <br/> <br/>
+    <span>in binary:</span>
+    <input type="text" id="binary" disabled="disabled">
+    <br/>
+    <span>third bit is:</span>
+    <input type="text" id="thirdBit" disabled="disabled">
+   </div>
+
+   <div class="problem">
+    <h2>Problem 6. Point in Circle</h2>
+    <p>Write an expression that checks if given point P(x, y) is within a circle K({0,0}, 5). //{0,0} is the centre and 5 is the radius</p>
+    <span>Enter x:</span>
+    <input type="text" id="x">
+    <br/><br/>
+    <span>Enter y:</span>
+    <input type="text" id="y">
+    <br/><br/>
+    <button onclick="pointInCircle()">Check!</button>
+    <br/><br/>
+    <input type="text" id="inCircle" disabled="disabled">
+   </div>
+
+   <div class="problem">
+   	<h2>Problem 7. Is prime</h2>
+   	<p>Write an expression that checks if given positive integer number n (n ≤ 100) is prime.</p>
+   	<span>Enter number:</span>
+   	<input type="text" id="ifPrime">
+   	<br/><br/>
+   	<button onclick="isPrime()">Prime?</button>
+   	<input type="text" id="answer" disabled="disabled">
+   </div>
+
+   <div class="problem">
+   	<h2>Problem 8. Trapezoid area</h2>
+   	<p>Write an expression that calculates trapezoid's area by given sides a and b and height h.</p>
+   	<span>Enter side a:</span>
+   	<input type="text" id="a">
+   	<br/><br/>
+   	<span>Enter side b:</span>
+   	<input type="text" id="b">
+   	<br/><br/>
+   	<span>Enter height:</span>
+   	<input type="text" id="h">
+   	<br/><br/>
+   	<button onclick="trapezoidArea()">Get Area!</button>
+   	<br/>
+   	<br/>
+   	<input type="text" id="trapezoid" disabled="disabled">
+   </div>
+
+   <div class="problem">
+   	<h2>Problem 9. Point in Circle and outside Rectangle</h2>
+   	<p>Write an expression that checks for given point P(x, y) if it is within the circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).</p>
+   	<span>Enter x:</span>
+    <input type="text" id="x2">
+    <br/><br/>
+    <span>Enter y:</span>
+    <input type="text" id="y2">
+    <br/><br/>
+    <button onclick="inCircleOutsideRactangle()">Inside Circle, Ouside Rectangle?</button>
+    <br/><br/>
+    <input type="text" id="where" disabled="disabled">
+
+   </div>
+
+
+</body>
+</html>
