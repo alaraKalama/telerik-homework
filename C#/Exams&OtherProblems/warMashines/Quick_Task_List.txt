@@ -1,0 +1,46 @@
+Weapon
+	:Mele : individual weapons
+	:Range : individual weapons
+
+Armor
+	Armor:
+		:Platet :types
+		:Chain	:types
+		:Leather:types
+	Shield:
+
+Spell:
+	:Control
+	:Dmg
+	:Map
+
+Dmg:
+	:Blunt
+	:Pierce
+	;Slash
+	:Elemental
+
+Actions:
+	:Attack
+		:Magic
+		:Weapon
+	:Defend
+		:Dodge/Miss
+		:BlockWithArmor
+		:BlockWithShiled
+	:Run
+
+
+Player/Enemy:
+	Inventory:ListOfWeapons,ListOfSpells,ListOfArmor
+	Stats: Health,Mana,DodgeChance,BlockDmg
+	Skillset:ListOfAttackActions,ListOfDefenceActions
+
+		Player:
+			Score
+		Enemy:
+			:Multipley types
+Map:
+	Maze
+	Enemies
+	Player

@@ -1,0 +1,86 @@
+
+
+COLORS IMPORTANT THINGS
+- white, black and gray are the only colours that consist equal amounts of red, green and blue
+- #000000 - black
+  #FFFFFF - white
+  #FF0000 - red
+  #00FF00 - green
+  #0000FF - blue
+  or RRGGBB(to remember)
+
+- according to some test HTML recognize 16 color names
+- according to another there are 256 browser safe colors(think its true:D)
+- #FCFCFC is not a safe color(white)
+
+most important:
+
+-HTML is based on SGML - Standart Generalized Markup Language
+
+-DHTML - Dynamic HTML - umbrella term for a collection of technologies used together to create
+interactive and animated websites. It allows scripting languages to change variables in a web page 
+definition language, which in turn affects the look and function of otherwise "static" HTML.
+
+- SVG - Scalable Vector Graphics - an XML-based vector image format for 2D graphics.
+SVG images and their behavior are defined in XML file - SVG images can be drawn in drawing s/w
+ot written in XML.
+All modern browsers have at least some support for svg.
+SVG have support for event handlers.
+SVG allows 3 graphic object types whatever taht means.
+
+-HTML local storage - web apps can store data locally within the browser. 
+Before HTML5 data had to be stored in cookies and included in every server request.
+Local storage is more secure + large amounts of data can be stored locally without affecting 
+browser performance(YEAH RIGHT, Chrome).
+Local storage is per domain - all pages from one domain can & access the same data.
+
+-web worker - JS script executed form an HTML page that runs in teh background, independantly
+of other user-interface scripts scripts that may also have been executed from the same page.
+
+-manifest file - in s/w packaging it is common to add manifest text file - listed all files which are
+included in the distribution. The browser uses the manifest file to fetch the appropriate data.
+The term is loan from shipping - a ship's manifest would list the crew ot cargo of a vessel.
+
+-MIME - Multipurpose Internet Mail Extension - extension of the original e-mal protocol
+that lets people use protocol to exchange other types of data - images, audio, video, etc...
+
+-Tim Berners-Lee invented the world wide web, later found W3C(World Wide Web Consortioum)
+
+sykrashteniya koito az ne znam:
+
+-API - Application Programming Interface
+-ISP - Internet service provider
+-RTF - rich text format
+-DTD - Document type definition
+
+less important:
+
+-Ancestor of all other elements on a page is called SIBLING
+-HTML5 doesn't support the following attributes: frameborder, scrolling, marginwidth, marginheight
+
+
+tags and shit:
+
+-<ol start="3"> - thi list will start form 3
+-&lt - less than sign: <
+-&gt - greater than sign: >
+-<canvas> - a container to graphics, can paint graphics with JS
+-<wbr> - possible line break
+-<keygen> - specifies a key-pair generator field ised in forms - provides a secure way to
+authenticate the user
+
+
+attributes:
+
+-<iframe src="demo_iframe_sandbox.htm" sandbox></iframe> - 
+  The sandbox attribute enables an extra set of restrictions for the content in the iframe.
+-<iframe src="demo_iframe.htm" seamless></iframe> - 
+  The seamless attribute is a boolean attribute.
+  When present, it specifies that the <iframe> should look like it is a part of the 
+  containing document (no borders or scrollbars).
+-   <div contentEditable="true">
+      This text can be edited by the user.
+    </div>
+
+   The <link> target attribute is not supported in HTML5.!!!!!!
+- <link rel="parent" href="wildcats.htm" target="_blank"> - opens the link in new tab

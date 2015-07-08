@@ -1,0 +1,46 @@
+body{
+	font-family: Century Gothic, sans-serif;
+	background-color:white;
+}
+
+button{
+	border-radius: 1px;
+	height: 25px;
+	font-size: 17px;
+	border: 1px solid #0c4e6b;
+	background-color: ##FEFEFE;
+	color: #0c4e6b;
+}
+
+button:hover{
+	border: 1px solid white;
+	background-color: #0c4e6b;
+	color: white;
+}
+
+h1, h2{
+	color: #0c4e6b;
+}
+.problem{
+	position: relative;
+	border-bottom: 1px solid #0c4e6b;;
+	border-radius: 1px;
+	width: 600px;
+	margin: 10px;
+	margin-top: 35px;
+	padding: 5px;
+	
+}
+.problem ul li{
+	text-align: left;
+}
+
+input{
+	border-radius: 5px;
+	height: 20px;
+}
+
+textarea{
+	height: 100px;
+	width: 300px;
+}

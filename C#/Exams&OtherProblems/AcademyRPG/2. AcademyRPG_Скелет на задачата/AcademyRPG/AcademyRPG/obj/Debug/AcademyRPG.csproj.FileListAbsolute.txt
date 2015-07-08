@@ -1,0 +1,10 @@
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\Owner\Desktop\telerik\AcademyRPG\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\Owner\Desktop\telerik\AcademyRPG\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\Owner\Desktop\telerik\AcademyRPG\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Users\Owner\Desktop\telerik\AcademyRPG\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Users\Owner\Desktop\telerik\AcademyRPG\2. AcademyRPG_Скелет на задачата\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache

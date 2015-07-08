@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\telerik\SoftwareAcademy\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\telerik\SoftwareAcademy\1. Software Academy_Скелет на задачата\bin\Debug\SoftwareAcademy.exe
+C:\Users\Owner\Desktop\telerik\SoftwareAcademy\1. Software Academy_Скелет на задачата\bin\Debug\SoftwareAcademy.pdb
+C:\Users\Owner\Desktop\telerik\SoftwareAcademy\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.exe
+C:\Users\Owner\Desktop\telerik\SoftwareAcademy\1. Software Academy_Скелет на задачата\obj\Debug\SoftwareAcademy.pdb

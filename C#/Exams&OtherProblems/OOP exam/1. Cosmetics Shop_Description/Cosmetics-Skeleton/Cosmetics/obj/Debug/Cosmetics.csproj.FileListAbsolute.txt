@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\telerik\OOP exam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\Owner\Desktop\telerik\OOP exam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\telerik\OOP exam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\Owner\Desktop\telerik\OOP exam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\Owner\Desktop\telerik\OOP exam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\Owner\Desktop\telerik\OOP exam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb

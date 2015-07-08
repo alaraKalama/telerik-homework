@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\telerik\warMashines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\Users\Owner\Desktop\telerik\warMashines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\telerik\warMashines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\Users\Owner\Desktop\telerik\warMashines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+C:\Users\Owner\Desktop\telerik\warMashines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+C:\Users\Owner\Desktop\telerik\warMashines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
