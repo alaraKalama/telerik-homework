@@ -13,7 +13,8 @@ function solve () {
             STRING_MIN_VALUE : 3,
             STRING_MAX_VALUE : 25,
             IMDB_MIN_RATING : 1,
-            IMDB_MAX_RATING : 5
+            IMDB_MAX_RATING : 5,
+            MAX_NUMBER: 9007199254740992
         };
 
         errors = {
@@ -120,7 +121,6 @@ function solve () {
                     errors.NotAPlaylistError();
                 }
             }
-
         };
 
         player = (function(){
@@ -192,19 +192,45 @@ function solve () {
                 value: function(playable, playlist){
                     validator.validateIfUndefined(playable, 'Playable in player.contains');
                     validator.validateIfUndefined(playlist, 'Playlist in player.contains');
-                    if(this._playlists.indexOf(playlist) < 0){
-                        errors.PlaylistNotFoundError();
-                    }
-                    if(playlist.indexOf(playable) < 0){
+                    var playableId = validator.validateId(playable.id);
+                    var playlistId = validator.validateId(playlist.id);
+
+                    playlist = this.getPlaylistById(playlistId);
+                    if (playlist === null) {
                         return false;
                     }
+
+                    playable = playlist.getPlayableById(playableId);
+                    if (playable === null) {
+                        return false;
+                    }
+
                     return true;
                 }
             });
 
             Object.defineProperty(player, 'search', {
-                value: function(pattern){
+                value: function (pattern) {
+                    validator.validateString(pattern, 'Search pattern');
 
+                    return this._playlists
+                        .filter(function (playlist) {
+                            return playlist
+                                .listPlayables()
+                                .some(function (playable) {
+                                    return playable.length !== undefined && 
+                                        playable
+                                            .title
+                                            .toLowerCase()
+                                            .indexOf(pattern.toLowerCase()) >= 0;
+                                });
+                        })
+                        .map(function (playlist) {
+                            return {
+                                id: playlist.id,
+                                name: playlist.name,
+                            };
+                        });
                 }
             });
 
@@ -278,7 +304,9 @@ function solve () {
 
             Object.defineProperty(playlist, 'listPlaylables', {
                 value: function(page, size){
-                    var maxElements = this._playables.length - 1;
+                    page = page || 0;
+                    size = size || CONSTANTS.MAX_NUMBER;
+                    var maxElements = this._playables.length;// or -1?
                     validator.validatePageAndSize(page, size, maxElements);
 
                     return this._playables
@@ -434,7 +462,7 @@ function solve () {
 
         return{
             getPlayer: function (name){
-        // returns a new player instance with the provided name
+                return Object.create(player).init(name);
             },
             getPlaylist: function(name){
                 return Object.create(playlist).init(name);
