@@ -1,8 +1,0 @@
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\TemplatePerson\bin\Debug\TemplatePerson.exe.config
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\TemplatePerson\bin\Debug\TemplatePerson.exe
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\TemplatePerson\bin\Debug\TemplatePerson.pdb
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\TemplatePerson\obj\Debug\TemplatePerson.exe
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\TemplatePerson\obj\Debug\TemplatePerson.pdb
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\BehaviorPatterns\TemplatePerson\bin\Debug\TemplatePerson.exe.config
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\BehaviorPatterns\TemplatePerson\obj\Debug\TemplatePerson.exe
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\BehaviorPatterns\TemplatePerson\obj\Debug\TemplatePerson.pdb

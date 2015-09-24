@@ -1,0 +1,5 @@
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\CommandPattern\bin\Debug\CommandPattern.exe.config
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\CommandPattern\obj\Debug\CommandPattern.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\CommandPattern\obj\Debug\CommandPattern.pdb

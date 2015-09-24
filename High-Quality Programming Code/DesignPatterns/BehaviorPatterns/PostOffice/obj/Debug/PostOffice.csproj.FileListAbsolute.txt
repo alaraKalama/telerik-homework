@@ -1,1 +1,0 @@
-\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\bin\Debug\PostOffice.exe.config

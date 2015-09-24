@@ -1,0 +1,5 @@
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

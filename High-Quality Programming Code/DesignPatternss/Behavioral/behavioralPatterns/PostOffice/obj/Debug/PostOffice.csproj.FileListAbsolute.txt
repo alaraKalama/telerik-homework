@@ -1,0 +1,5 @@
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\PostOffice\bin\Debug\PostOffice.exe.config
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\PostOffice\bin\Debug\PostOffice.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\PostOffice\bin\Debug\PostOffice.pdb
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\PostOffice\obj\Debug\PostOffice.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatternss\Behavioral\behavioralPatterns\PostOffice\obj\Debug\PostOffice.pdb
