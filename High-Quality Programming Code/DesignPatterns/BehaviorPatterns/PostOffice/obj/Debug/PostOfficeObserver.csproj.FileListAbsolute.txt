@@ -1,0 +1,6 @@
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\bin\Debug\PostOffice.exe.config
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\bin\Debug\PostOffice.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\bin\Debug\PostOffice.pdb
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\obj\Debug\PostOfficeObserver.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\obj\Debug\PostOffice.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\PostOffice\obj\Debug\PostOffice.pdb
