@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommandPattern.Reciever.AirConditioner">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Reciever\AirConditioner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Reciever.Light">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Reciever\Light.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Invoker.RemoteController" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Invoker\RemoteController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.ConcreteCommand.LightOn">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCommand\LightOn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.185" />
+  </Class>
+  <Class Name="CommandPattern.ConcreteCommand.LightOff">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCommand\LightOff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="CommandPattern.ConcreteCommand.AirCondOn">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCommand\AirCondOn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.237" />
+  </Class>
+  <Class Name="CommandPattern.ConcreteCommand.AirCondOff">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCommand\AirCondOff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Interface Name="CommandPattern.AbstractCommand.ICommand">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractCommand\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

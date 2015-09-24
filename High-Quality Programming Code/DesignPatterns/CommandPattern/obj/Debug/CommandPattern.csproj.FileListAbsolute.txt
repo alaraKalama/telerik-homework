@@ -1,0 +1,6 @@
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe.config
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.exe
+\\psf\Home\Documents\telerik-homework\High-Quality Programming Code\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.pdb

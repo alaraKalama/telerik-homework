@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Observer", "Observer", "{71
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostOfficeObserver", "PostOffice\PostOfficeObserver.csproj", "{4221BA21-8F7F-43F3-905A-6EA41F476118}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{41D3D838-097F-44D4-BD5E-D69C7D535B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{4221BA21-8F7F-43F3-905A-6EA41F476118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4221BA21-8F7F-43F3-905A-6EA41F476118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4221BA21-8F7F-43F3-905A-6EA41F476118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D3D838-097F-44D4-BD5E-D69C7D535B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D3D838-097F-44D4-BD5E-D69C7D535B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D3D838-097F-44D4-BD5E-D69C7D535B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D3D838-097F-44D4-BD5E-D69C7D535B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,5 +55,6 @@ Global
 		{FEF4AEED-B86D-4683-B387-FFA58AA8833B} = {8A1999C8-5868-4FE2-9BEC-865DD151BDB1}
 		{718DFA55-42CB-4F8C-9921-FDA677AC82EA} = {8A1999C8-5868-4FE2-9BEC-865DD151BDB1}
 		{4221BA21-8F7F-43F3-905A-6EA41F476118} = {718DFA55-42CB-4F8C-9921-FDA677AC82EA}
+		{41D3D838-097F-44D4-BD5E-D69C7D535B05} = {FEF4AEED-B86D-4683-B387-FFA58AA8833B}
 	EndGlobalSection
 EndGlobal
