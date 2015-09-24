@@ -33,7 +33,7 @@
             }
             else
             {
-                Console.WriteLine("{0} can't handle this request. ATM can't give less than 5 dollars");
+                Console.WriteLine("{0} can't handle this request. ATM can't give less than 5 dollars", this.GetType().Name);
             }
         }
     }

@@ -30,7 +30,7 @@ namespace ChainOfResponsibilityATM{    using System;    /// <summary>    //
 Малко напомня рекурсия - съответно трябва да си има дъно. Банкоматите не дават повече от 5 долара, затова когато стигнем до там трябва да завършим веригата.
 
 ```
- else            {                Console.WriteLine("{0} can't handle this request. ATM can't give less than 5 dollars");            }
+ else            {                Console.WriteLine("{0} can't handle this request. ATM can't give less than 5 dollars", this.GetType().Name);            }
 ```
 
 ### 5. Клиентът
