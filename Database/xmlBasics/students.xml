@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="styleStudents.xslt" ?>
+<students xmlns:students="urn:students-telerik">
+  <student>
+    <name>Pesho Peshov</name>
+    <sex>male</sex>
+    <birthday>1995-10-10</birthday>
+    <phone>0897543234</phone>
+    <email>peshov@gmail.com</email>
+    <facumltyNum>2347865</facumltyNum>
+    <courses>
+      <course>
+        <courseName>Databases</courseName>
+        <trainer>Ivaylo Kenov</trainer>
+        <examScore>100</examScore>
+      </course>
+      <course>
+        <courseName>High-quality code</courseName>
+        <trainer>Nikolay Kostov</trainer>
+        <examScore>40</examScore>
+      </course>
+    </courses>
+  </student>
+  <student>
+    <name>Stamat Mateiov</name>
+    <sex>male</sex>
+    <birthday>1990-12-06</birthday>
+    <phone>0897543234</phone>
+    <email>stamat.m@gmail.com</email>
+    <facumltyNum>3568934</facumltyNum>
+    <courses>
+      <course>
+        <courseName>Databases</courseName>
+        <trainer>Ivaylo Kenov</trainer>
+        <examScore>120</examScore>
+      </course>
+      <course>
+        <courseName>High-quality code</courseName>
+        <trainer>Nikolay Kostov</trainer>
+        <examScore>60</examScore>
+      </course>
+    <course>
+        <courseName>UX design</courseName>
+        <trainer>unknown</trainer>
+      </course>
+    </courses>
+  </student>
+  <student>
+    <name>Maria Peshova</name>
+    <sex>female</sex>
+    <birthday>1987-12-06</birthday>
+    <phone>0897543234</phone>
+    <email>mimi.p@gmail.com</email>
+    <facumltyNum>6142984</facumltyNum>
+    <courses>
+      <course>
+        <courseName>Databases</courseName>
+        <trainer>Ivaylo Kenov</trainer>
+        <examScore>150</examScore>
+      </course>
+      <course>
+        <courseName>High-quality code</courseName>
+        <trainer>Nikolay Kostov</trainer>
+        <examScore>40</examScore>
+      </course>
+    </courses>
+  </student>
+</students>

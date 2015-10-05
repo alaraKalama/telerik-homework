@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema 
+    xmlns:xsd="urn:students-telerik">
+
+  <xsd:simpleType name="email">
+    <xsd:restriction base ="xsd:string">
+      <xsd:pattern value ="([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2.9})"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="facultyNumb">
+    <xsd:restriction base="xs:string">
+      <xsd:pattern value="[0-9]{7}"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+  <xsd:element name="students">
+    <xsd:complexType>
+      <xsd:element name="student">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="Name" type="xsd:string" />
+            <xsd:element name="Sex" type="xsd:string" />
+            <xsd:element name="Birthday" type="xsd:date" />
+            <xsd:element name="Phone" type="xsd:string" />
+            <xsd:element name="email" type="xsd:email" />
+            <xsd:element name="FacumltyNum" type="xsd:facultyNum" />
+            <xsd:element name="courses">
+              <xsd:complexType>
+                <xsd:element name="course">
+                  <xsd:complexType>
+                    <xsd:sequence>
+                      <xsd:element name="enrollment" type="xsd:date"/>
+                      <xsd:element name="courseName" type="xsd:string"/>
+                      <xsd:element name="trainer" type="xsd:string"/>
+                      <xsd:elemet name="trainerEndorsements" type="xsd:string"/>
+                      <xsd:element name="examScore" type="xsd:positiveInteger"/>
+                    </xsd:sequence>
+                  </xsd:complexType>
+                </xsd:element>
+              </xsd:complexType>
+            </xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:complexType>
+  </xsd:element>
+  
+</xsd:schema>
