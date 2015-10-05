@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4276C9C-5399-4BE0-A3AC-26AF9CE064DE}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\High-Quality Programming Code\DesignPatternss\Behavioral\Solution1\students.xml = ..\..\High-Quality Programming Code\DesignPatternss\Behavioral\Solution1\students.xml
-		..\..\High-Quality Programming Code\DesignPatternss\Behavioral\Solution1\students.xsd = ..\..\High-Quality Programming Code\DesignPatternss\Behavioral\Solution1\students.xsd
-		..\..\High-Quality Programming Code\DesignPatternss\Behavioral\Solution1\styleStudents.xslt = ..\..\High-Quality Programming Code\DesignPatternss\Behavioral\Solution1\styleStudents.xslt
+		students.xml = students.xml
+		students.xsd = students.xsd
+		styleStudents.xslt = styleStudents.xslt
 	EndProjectSection
 EndProject
 Global
