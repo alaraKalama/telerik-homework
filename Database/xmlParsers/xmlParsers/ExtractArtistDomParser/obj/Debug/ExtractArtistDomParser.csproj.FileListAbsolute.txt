@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractArtistDomParser\bin\Debug\ExtractArtistDomParser.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractArtistDomParser\bin\Debug\ExtractArtistDomParser.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractArtistDomParser\bin\Debug\ExtractArtistDomParser.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractArtistDomParser\obj\Debug\ExtractArtistDomParser.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractArtistDomParser\obj\Debug\ExtractArtistDomParser.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractArtistDomParser\obj\Debug\ExtractArtistDomParser.pdb

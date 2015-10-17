@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>The Division Bell</name>
+    <artist>Pink Floyd</artist>
+  </album>
+  <album>
+    <name>Before These Crowded Streets</name>
+    <artist>Dave Matthews Band</artist>
+  </album>
+  <album>
+    <name>Oxygène</name>
+    <artist>Jean Michel Jarre</artist>
+  </album>
+</albums>

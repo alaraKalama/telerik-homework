@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAristsXPath\bin\Debug\ExtractAristsXPath.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAristsXPath\bin\Debug\ExtractAristsXPath.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAristsXPath\bin\Debug\ExtractAristsXPath.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAristsXPath\obj\Debug\ExtractAristsXPath.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAristsXPath\obj\Debug\ExtractAristsXPath.pdb

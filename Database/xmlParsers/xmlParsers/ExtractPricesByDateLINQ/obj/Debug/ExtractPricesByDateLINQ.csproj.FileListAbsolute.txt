@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDateLINQ\bin\Debug\ExtractPricesByDateLINQ.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDateLINQ\bin\Debug\ExtractPricesByDateLINQ.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDateLINQ\bin\Debug\ExtractPricesByDateLINQ.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDateLINQ\obj\Debug\ExtractPricesByDateLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDateLINQ\obj\Debug\ExtractPricesByDateLINQ.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDateLINQ\obj\Debug\ExtractPricesByDateLINQ.pdb

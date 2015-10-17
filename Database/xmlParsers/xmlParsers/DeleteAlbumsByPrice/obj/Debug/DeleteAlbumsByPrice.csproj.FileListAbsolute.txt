@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\DeleteAlbumsByPrice\bin\Debug\DeleteAlbumsByPrice.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\DeleteAlbumsByPrice\bin\Debug\DeleteAlbumsByPrice.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\DeleteAlbumsByPrice\bin\Debug\DeleteAlbumsByPrice.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\DeleteAlbumsByPrice\obj\Debug\DeleteAlbumsByPrice.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\DeleteAlbumsByPrice\obj\Debug\DeleteAlbumsByPrice.pdb

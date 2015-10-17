@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDate\bin\Debug\ExtractPricesByDate.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDate\bin\Debug\ExtractPricesByDate.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDate\bin\Debug\ExtractPricesByDate.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDate\obj\Debug\ExtractPricesByDate.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractPricesByDate\obj\Debug\ExtractPricesByDate.pdb

@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsXmlReader\bin\Debug\ExtractSongsXmlReader.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsXmlReader\bin\Debug\ExtractSongsXmlReader.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsXmlReader\bin\Debug\ExtractSongsXmlReader.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsXmlReader\obj\Debug\ExtractSongsXmlReader.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsXmlReader\obj\Debug\ExtractSongsXmlReader.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsXmlReader\obj\Debug\ExtractSongsXmlReader.pdb

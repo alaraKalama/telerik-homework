@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAlbums\bin\Debug\ExtractAlbums.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAlbums\bin\Debug\ExtractAlbums.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAlbums\bin\Debug\ExtractAlbums.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAlbums\obj\Debug\ExtractAlbums.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractAlbums\obj\Debug\ExtractAlbums.pdb

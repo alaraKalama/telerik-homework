@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns:catalog="urn:catalog-music-homework">
+  <album>
+    <name>Before These Crowded Streets</name>
+    <artist>Dave Matthews Band</artist>
+    <year>1998</year>
+    <producer>Steve Lillywhite</producer>
+    <price>18.99</price>
+    <songs>
+      <song>
+        <title>Pantala Naga Pampa</title>
+        <duration>0:40</duration>
+      </song>
+      <song>
+        <title>Rapunzel</title>
+        <duration>6:00</duration>
+      </song>
+      <song>
+        <title>The Last Stop</title>
+        <duration>6:57</duration>
+      </song>
+      <song>
+        <title>Don't Drink the Water</title>
+        <duration>7:01</duration>
+      </song>
+      <song>
+        <title>Stay (Wasting Time)</title>
+        <duration>5:35</duration>
+      </song>
+      <song>
+        <title>Halloween</title>
+        <duration>5:07</duration>
+      </song>
+      <song>
+        <title>The Stone</title>
+        <duration>7:28</duration>
+      </song>
+      <song>
+        <title>Crush</title>
+        <duration>8:09</duration>
+      </song>
+      <song>
+        <title>The Dreaming Tree</title>
+        <duration>8:48</duration>
+      </song>
+      <song>
+        <title>Pig</title>
+        <duration>6:57</duration>
+      </song>
+      <song>
+        <title>Spoon</title>
+        <duration>7:33</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Oxygène</name>
+    <artist>Jean Michel Jarre</artist>
+    <year>1976</year>
+    <producer>Jean Michel Jarre</producer>
+    <price>19.99</price>
+    <songs>
+      <song>
+        <title>Oxygène Part I</title>
+        <duration>7:40</duration>
+      </song>
+      <song>
+        <title>Oxygène Part II</title>
+        <duration>7:37</duration>
+      </song>
+      <song>
+        <title>Oxygène Part III</title>
+        <duration>3:24</duration>
+      </song>
+      <song>
+        <title>Oxygène Part IV</title>
+        <duration>4:06</duration>
+      </song>
+      <song>
+        <title>Oxygène Part V</title>
+        <duration>10:26</duration>
+      </song>
+      <song>
+        <title>Oxygène Part VI</title>
+        <duration>6:24</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

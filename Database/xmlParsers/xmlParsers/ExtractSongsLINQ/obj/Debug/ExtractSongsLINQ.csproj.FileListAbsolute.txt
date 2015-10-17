@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsLINQ\bin\Debug\ExtractSongsLINQ.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsLINQ\bin\Debug\ExtractSongsLINQ.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsLINQ\bin\Debug\ExtractSongsLINQ.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsLINQ\obj\Debug\ExtractSongsLINQ.exe
+C:\Users\Owner\Source\Repos\telerik-homework\Database\xmlParsers\xmlParsers\ExtractSongsLINQ\obj\Debug\ExtractSongsLINQ.pdb
