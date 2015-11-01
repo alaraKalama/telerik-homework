@@ -20,7 +20,8 @@ long Compute(int[] arr)
 }
 ```
 
-Assuming `arr.Length` is n, first we go n times in the `for` loop and than for every loop inside it we go another n times in the `while` loop. So the complexity here is ![equation](http://www.sciweavers.org/upload/Tex2Img_1446384770/eqn.png).
+Assuming `arr.Length` is n, first we go n times in the `for` loop and than for every loop inside it we go another n times in the `while` loop. So the complexity here is
+![equation](http://www.sciweavers.org/upload/Tex2Img_1446391324/eqn.png).
 
 -
 ###Problem 2
@@ -44,7 +45,7 @@ With the first `for` loop we loop **n** rows.
 
 If the first element is even we go for the second `for` loop that loops **m** columns.
 
-So the complexity here is ![equation](http://www.sciweavers.org/upload/Tex2Img_1446387161/eqn.png).
+So the complexity here is ![equation](http://www.sciweavers.org/upload/Tex2Img_1446391426/render.png).
 
 -
 ###Problem 3
@@ -63,4 +64,4 @@ long CalcSum(int[,] matrix, int row)
 Console.WriteLine(CalcSum(matrix, 0));
 ```
 
-The `for` loop in the method `CalcSum` is called **n** times and the method calls itself recursively another **m** times, so the complexity again is ![equation](http://www.sciweavers.org/upload/Tex2Img_1446387161/eqn.png).
+The `for` loop in the method `CalcSum` is called **n** times and the method calls itself recursively another **m** times, so the complexity again is ![equation](http://www.sciweavers.org/upload/Tex2Img_1446391426/render.png).
