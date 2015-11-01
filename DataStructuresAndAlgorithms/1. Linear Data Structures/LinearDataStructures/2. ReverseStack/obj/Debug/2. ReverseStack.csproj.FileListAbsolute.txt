@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\2. ReverseStack\bin\Debug\_2.ReverseStack.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\2. ReverseStack\bin\Debug\_2.ReverseStack.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\2. ReverseStack\bin\Debug\_2.ReverseStack.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\2. ReverseStack\obj\Debug\_2.ReverseStack.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\2. ReverseStack\obj\Debug\_2.ReverseStack.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\2. ReverseStack\obj\Debug\2. ReverseStack.csprojResolveAssemblyReference.cache

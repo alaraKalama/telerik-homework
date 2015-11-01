@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\1. PositiveIntegersString\bin\Debug\_1.PositiveIntegersString.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\1. PositiveIntegersString\bin\Debug\_1.PositiveIntegersString.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\1. PositiveIntegersString\bin\Debug\_1.PositiveIntegersString.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\1. PositiveIntegersString\obj\Debug\1. PositiveIntegersString.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\1. PositiveIntegersString\obj\Debug\_1.PositiveIntegersString.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\1. PositiveIntegersString\obj\Debug\_1.PositiveIntegersString.pdb

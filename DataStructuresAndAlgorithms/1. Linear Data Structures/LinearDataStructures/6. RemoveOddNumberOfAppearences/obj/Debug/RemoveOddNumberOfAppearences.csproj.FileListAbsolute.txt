@@ -1,0 +1,1 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\RemoveOddNumberOfAppearences\bin\Debug\RemoveOddNumberOfAppearences.exe.config

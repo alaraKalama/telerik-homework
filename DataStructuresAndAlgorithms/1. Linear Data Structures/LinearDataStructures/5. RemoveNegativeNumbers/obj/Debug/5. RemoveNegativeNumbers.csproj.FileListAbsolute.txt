@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\5. RemoveNegativeNumbers\bin\Debug\_5.RemoveNegativeNumbers.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\5. RemoveNegativeNumbers\bin\Debug\_5.RemoveNegativeNumbers.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\5. RemoveNegativeNumbers\bin\Debug\_5.RemoveNegativeNumbers.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\5. RemoveNegativeNumbers\obj\Debug\5. RemoveNegativeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\5. RemoveNegativeNumbers\obj\Debug\_5.RemoveNegativeNumbers.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\5. RemoveNegativeNumbers\obj\Debug\_5.RemoveNegativeNumbers.pdb

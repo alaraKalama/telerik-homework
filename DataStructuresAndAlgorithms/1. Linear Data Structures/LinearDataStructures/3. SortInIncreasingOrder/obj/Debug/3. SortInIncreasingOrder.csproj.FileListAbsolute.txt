@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\3. SortInIncreasingOrder\bin\Debug\_3.SortInIncreasingOrder.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\3. SortInIncreasingOrder\bin\Debug\_3.SortInIncreasingOrder.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\3. SortInIncreasingOrder\bin\Debug\_3.SortInIncreasingOrder.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\3. SortInIncreasingOrder\obj\Debug\_3.SortInIncreasingOrder.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\3. SortInIncreasingOrder\obj\Debug\_3.SortInIncreasingOrder.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\3. SortInIncreasingOrder\obj\Debug\3. SortInIncreasingOrder.csprojResolveAssemblyReference.cache

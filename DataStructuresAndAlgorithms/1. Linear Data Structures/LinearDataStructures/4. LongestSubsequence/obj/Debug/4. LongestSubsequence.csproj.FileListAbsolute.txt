@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\4. LongestSubsequence\bin\Debug\_4.LongestSubsequence.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\4. LongestSubsequence\bin\Debug\_4.LongestSubsequence.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\4. LongestSubsequence\bin\Debug\_4.LongestSubsequence.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\4. LongestSubsequence\obj\Debug\4. LongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\4. LongestSubsequence\obj\Debug\_4.LongestSubsequence.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\4. LongestSubsequence\obj\Debug\_4.LongestSubsequence.pdb
