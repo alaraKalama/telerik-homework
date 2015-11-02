@@ -3,63 +3,47 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
+    using System.Text;
 
     class StartUp
     {
+        // a second of appreciation for Pavel argidux who made this simple and elegant solution and 
+        // once I saw it I couldn't unsee it. So thank you!
         static void Main()
         {
             int n = 5;
             int m = 16;
-            Queue<int> sequence = new Queue<int>();
-            FindShortestSequence(n, m, sequence);
-        }
+            var sequence = new StringBuilder();
+            sequence.Insert(0, m.ToString());
 
-        public static void FindShortestSequence(int start, int target, Queue<int> sequence)
-        {
-            sequence.Enqueue(start);
-            
-            while(start < target)
+            while(m != n)
             {
-                if (start + 1 == target)
-                {
-                    start += 1;
-                    sequence.Enqueue(start);
-                    PrintSequence(sequence);
-                    break;
-                }
-                if (start + 2 == target)
-                {
-                    start += 2;
-                    sequence.Enqueue(start);
-                    PrintSequence(sequence);
-                    break;
-                }
-                if (start * 2 > target)
-                {
-                    while (start < target)
-                    {
-                        start += 2;
-                        sequence.Enqueue(start);
-                    }
-                    FindShortestSequence(start, target, sequence);
-                }
-                else if(start * 2 == target)
-                {
-                    start *= 2;
-                    sequence.Enqueue(start);
-                    PrintSequence(sequence);
-                    break;
-                }
-                else if(start * 2 < target)
-                {
-                    FindShortestSequence(start, target, sequence);
-                }
+                m = FindNext(n, m);
+                sequence.Insert(0, m.ToString() + " --> ");
             }
+
+            Console.WriteLine(sequence.ToString());
         }
 
-        public static void PrintSequence(Queue<int> sequence)
+        private static int FindNext(int start, int target)
         {
-            Console.WriteLine(string.Join("-->", sequence));
+            if(target / 2 >= start)
+            {
+                if(target % 2 != 0)
+                {
+                    return target - 1;
+                }
+                return target / 2;
+            }
+            if(target - 2 >= start)
+            {
+                return target - 2;
+            }
+            if(target - 1 >= start)
+            {
+                return target - 1;
+            }
+            return target;
         }
     }
 }
