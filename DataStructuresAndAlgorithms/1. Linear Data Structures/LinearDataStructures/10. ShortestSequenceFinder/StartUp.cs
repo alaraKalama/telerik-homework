@@ -8,7 +8,7 @@
     class StartUp
     {
         // a second of appreciation for Pavel argidux who made this simple and elegant solution and 
-        // once I saw it I couldn't unsee it. So thank you!
+        // once I saw it I couldn't unsee it. So thank you! 
         static void Main()
         {
             int n = 5;
