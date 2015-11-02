@@ -1,0 +1,5 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\8. MajorantOfArray\bin\Debug\_8.MajorantOfArray.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\8. MajorantOfArray\bin\Debug\_8.MajorantOfArray.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\8. MajorantOfArray\bin\Debug\_8.MajorantOfArray.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\8. MajorantOfArray\obj\Debug\_8.MajorantOfArray.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\8. MajorantOfArray\obj\Debug\_8.MajorantOfArray.pdb

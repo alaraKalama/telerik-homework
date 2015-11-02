@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\9. SequencePrinter\bin\Debug\_9.SequencePrinter.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\9. SequencePrinter\bin\Debug\_9.SequencePrinter.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\9. SequencePrinter\bin\Debug\_9.SequencePrinter.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\9. SequencePrinter\obj\Debug\9. SequencePrinter.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\9. SequencePrinter\obj\Debug\_9.SequencePrinter.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\9. SequencePrinter\obj\Debug\_9.SequencePrinter.pdb

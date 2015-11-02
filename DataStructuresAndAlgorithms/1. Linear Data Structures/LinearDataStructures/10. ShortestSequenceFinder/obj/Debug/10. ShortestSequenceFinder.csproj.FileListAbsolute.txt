@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\10. ShortestSequenceFinder\bin\Debug\_10.ShortestSequenceFinder.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\10. ShortestSequenceFinder\bin\Debug\_10.ShortestSequenceFinder.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\10. ShortestSequenceFinder\bin\Debug\_10.ShortestSequenceFinder.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\10. ShortestSequenceFinder\obj\Debug\10. ShortestSequenceFinder.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\10. ShortestSequenceFinder\obj\Debug\_10.ShortestSequenceFinder.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\10. ShortestSequenceFinder\obj\Debug\_10.ShortestSequenceFinder.pdb

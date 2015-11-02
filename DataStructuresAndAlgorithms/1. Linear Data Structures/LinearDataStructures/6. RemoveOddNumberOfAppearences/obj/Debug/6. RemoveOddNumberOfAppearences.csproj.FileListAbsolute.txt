@@ -3,3 +3,6 @@ C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Line
 C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\RemoveOddNumberOfAppearences\bin\Debug\RemoveOddNumberOfAppearences.pdb
 C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\RemoveOddNumberOfAppearences\obj\Debug\RemoveOddNumberOfAppearences.exe
 C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\RemoveOddNumberOfAppearences\obj\Debug\RemoveOddNumberOfAppearences.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\6. RemoveOddNumberOfAppearences\bin\Debug\RemoveOddNumberOfAppearences.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\6. RemoveOddNumberOfAppearences\obj\Debug\RemoveOddNumberOfAppearences.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\6. RemoveOddNumberOfAppearences\obj\Debug\RemoveOddNumberOfAppearences.pdb

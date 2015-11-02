@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\7. OccuranceCount\bin\Debug\_7.OccuranceCount.exe.config
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\7. OccuranceCount\bin\Debug\_7.OccuranceCount.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\7. OccuranceCount\bin\Debug\_7.OccuranceCount.pdb
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\7. OccuranceCount\obj\Debug\7. OccuranceCount.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\7. OccuranceCount\obj\Debug\_7.OccuranceCount.exe
+C:\Users\Owner\Source\Repos\telerik-homework\DataStructuresAndAlgorithms\1. Linear Data Structures\LinearDataStructures\7. OccuranceCount\obj\Debug\_7.OccuranceCount.pdb
